@@ -45,6 +45,7 @@ while (exibirMenu)
 
         case "4":
             exibirMenu = false;
+            Console.WriteLine("Obirgado por utilizar nosso Estacionamento! Volte sempre!");
             break;
 
         default:
